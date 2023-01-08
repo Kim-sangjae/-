@@ -13,6 +13,8 @@ public class Ex1 {
 		String str = num>=10 ? "10보다 크다" : "10보다 작다";
 		System.out.println(str);
 		
+//		연습
+		
 
 	}
 
